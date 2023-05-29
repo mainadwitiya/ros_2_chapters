@@ -1,0 +1,4 @@
+[console_scripts]
+client_02 = chap_02_package.client:main
+service_02 = chap_02_package.service:main
+

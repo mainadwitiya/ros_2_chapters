@@ -1,0 +1,4 @@
+[console_scripts]
+publisher_1 = chap_01_package.pub1:main
+subsriber_1 = chap_01_package.sub1:main
+

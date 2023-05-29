@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../build/chap_02_package/chap_02_package.egg-info/PKG-INFO
+../build/chap_02_package/chap_02_package.egg-info/SOURCES.txt
+../build/chap_02_package/chap_02_package.egg-info/dependency_links.txt
+../build/chap_02_package/chap_02_package.egg-info/entry_points.txt
+../build/chap_02_package/chap_02_package.egg-info/requires.txt
+../build/chap_02_package/chap_02_package.egg-info/top_level.txt
+../build/chap_02_package/chap_02_package.egg-info/zip-safe
+chap_02_package/__init__.py
+chap_02_package/client.py
+chap_02_package/service.py
+resource/chap_02_package
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
